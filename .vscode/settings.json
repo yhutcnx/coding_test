@@ -98,6 +98,15 @@
         "system_error": "cpp",
         "type_traits": "cpp",
         "utility": "cpp",
-        "thread": "cpp"
+        "thread": "cpp",
+        "print": "cpp",
+        "memory_resource": "cpp",
+        "format": "cpp",
+        "generator": "cpp",
+        "spanstream": "cpp",
+        "stdfloat": "cpp",
+        "stop_token": "cpp",
+        "syncstream": "cpp",
+        "text_encoding": "cpp"
     }
 }
