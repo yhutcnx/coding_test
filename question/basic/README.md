@@ -1,33 +1,51 @@
 ### Day 1
 - [x] 문자열 출력하기 
-   - A.cpp
+   - DAY1_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/181952
 - [x] a와 b 출력하기
-   - B.cpp
+   - DAY1_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/181951
 - [x] 문자열 반복해서 출력하기
-   - C.cpp
+   - DAY1_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/181950
 - [x] 대소문자 바꿔서 출력하기
-   - D.cpp
+   - DAY1_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/181949
 - [x] a와 b 출력하기
-   - E.cpp
+   - DAY1_E.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/181948
 ---
 ### Day 2
 - [x] 덧셈식 출력하기
-   - F.cpp
+   - DAY2_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/181947
 - [x] 문자열 붙여서 출력하기
-   - G.cpp
+   - DAY2_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/181946
 - [x] 문자열 돌리기
-   - H.cpp
+   - DAY2_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/181945 
 - [x] 홀짝 구분하기
-   - I.cpp
+   - DAY2_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/181944 
 - [x] 문자열 겹쳐쓰기
-   - J.cpp
+   - DAY2_E.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/181943
+---
+### Day 3
+- [x] 문자열 섞기
+  - DAY3_A.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181942
+- [x] 문자 리스트를 문자열로 변환하기
+  - DAY3_B.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181941
+- [x] 문자열 곱하기
+  - DAY3_C.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181940
+- [x] 더 크게 합치기
+  - DAY3_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181939
+- [x] 두 수의 연산값 비교하기
+  - DAY3_E.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181938
+ 
