@@ -48,4 +48,20 @@
 - [x] 두 수의 연산값 비교하기
   - DAY3_E.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181938
- 
+---
+### Day 4
+- [x] n의 배수
+  - DAY4_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181937
+- [x] 공배수
+  - DAY4_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181936
+- [x] 홀짝에 따라 다른 값 반환하기
+  - DAY4_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181935
+- [x] 조건 문자열
+  - DAY4_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181934
+- [x] flag에 따라 다른 값 반환하기
+  - DAY4_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181933
