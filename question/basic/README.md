@@ -65,3 +65,20 @@
 - [x] flag에 따라 다른 값 반환하기
   - DAY4_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181933
+---
+### Day 5
+- [x] 코드 처리하기
+  - DAY5_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181932
+- [x] 등차수열의 특정한 항만 더하기
+  - DAY5_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181931
+- [x] 주사위 게임 2
+  - DAY5_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181930
+- [x] 원소들의 곱과 합
+  - DAY5_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181929
+- [x] 이어 붙인 수
+  - DAY5_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181928
