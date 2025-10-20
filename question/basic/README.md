@@ -82,3 +82,21 @@
 - [x] 이어 붙인 수
   - DAY5_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181928
+---
+### Day 6
+- [x] 마지막 두 원소
+  - DAY6_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181927
+- [x] 수 조작하기 1
+  - DAY6_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181926
+- [x] 수 조작하기 2
+  - DAY6_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181925
+- [x] 수열과 구간 쿼리 3
+  - DAY6_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181924
+- [x] 수열과 구간 쿼리 2
+  - DAY6_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181923
+  
