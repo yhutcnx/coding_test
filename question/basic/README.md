@@ -99,4 +99,21 @@
 - [x] 수열과 구간 쿼리 2
   - DAY6_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181923
+---
+### Day 7
+- [x] 수열과 구간 쿼리 4
+  - DAY7_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181922
+- [x] 배열 만들기 2
+  - DAY7_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181921
+- [x] 카운트 업
+  - DAY7_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181920
+- [x] 콜리츠 수열 만들기
+  - DAY7_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181919
+- [x] 배열 만들기 4
+  - DAY7_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181918
   
