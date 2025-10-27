@@ -3,6 +3,15 @@ using namespace std;
 
 vector<int> solution(vector<string> intStrs, int k, int s, int l) {
     vector<int> answer;
+
+    for(auto intStr : intStrs){
+        int splitInt = stoi(intStr.substr(s, l));
+
+        if(splitInt > k){
+            answer.push_back(splitInt);
+        }
+    }
+
     return answer;
 }
 

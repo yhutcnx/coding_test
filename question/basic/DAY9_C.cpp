@@ -3,8 +3,7 @@ using namespace std;
 
 
 string solution(string my_string, int n) {
-    string answer = "";
-    return answer;
+    return my_string.substr(my_string.size() - n, n);
 }
 
 int main(void) {

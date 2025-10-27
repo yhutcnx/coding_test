@@ -175,24 +175,46 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY8_E.cpp
 ---
 ### Day 9
-- [ ] 배열 만들기 5
+- [x] 배열 만들기 5
   - DAY9_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181912
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY9_A.cpp
-- [ ] 부분 문자열 이어 붙여 문자열 만들기
+- [x] 부분 문자열 이어 붙여 문자열 만들기
   - DAY9_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181911
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY9_B.cpp
-- [ ] 문자열의 뒤의 n글자
+- [x] 문자열의 뒤의 n글자
   - DAY9_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181910
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY9_C.cpp
-- [ ] 접미사 배열
+- [x] 접미사 배열
   - DAY9_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181909
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY9_D.cpp
-- [ ] 접미사인지 확인하기
+- [x] 접미사인지 확인하기
   - DAY9_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181908
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY9_E.cpp
+---
+### Day 10
+- [ ] 문자열의 앞의 n글자
+  - DAY10_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181907
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_A.cpp
+- [ ] 접두사인지 확인하기
+  - DAY10_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181906
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_B.cpp
+- [ ] 문자열 뒤집기
+  - DAY10_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181905
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_C.cpp
+- [ ] 새로 읽기
+  - DAY10_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181904
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_D.cpp
+- [ ] qr code
+  - DAY10_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181903
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_E.cpp
 

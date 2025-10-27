@@ -2,8 +2,24 @@
 using namespace std;
 
 int solution(string my_string, string is_suffix) {
-    int answer = 0;
-    return answer;
+    size_t lastIndex = my_string.find(is_suffix);
+
+    while(true){
+       size_t n = my_string.find(is_suffix, lastIndex + 1);
+       if(n != string::npos){
+        lastIndex = n;
+       }
+       else {
+        break;
+       }
+    }
+
+    if(lastIndex == -1) return 0;
+    else {
+        if(my_string.substr(lastIndex) == is_suffix) return 1;
+        else return 0;
+    }
+
 }
 
 int main(void) {
