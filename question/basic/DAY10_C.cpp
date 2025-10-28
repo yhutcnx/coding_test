@@ -2,7 +2,11 @@
 using namespace std;
 
 string solution(string my_string, int s, int e) {
-    string answer = "";
+    string answer = my_string;
+
+    for(int i = s; i <= round((e + s) / 2); i++){
+        swap(answer[i], answer[e - (i - s)]);
+    }
     return answer;
 }
 

@@ -197,24 +197,46 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY9_E.cpp
 ---
 ### Day 10
-- [ ] 문자열의 앞의 n글자
+- [x] 문자열의 앞의 n글자
   - DAY10_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181907
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_A.cpp
-- [ ] 접두사인지 확인하기
+- [x] 접두사인지 확인하기
   - DAY10_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181906
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_B.cpp
-- [ ] 문자열 뒤집기
+- [x] 문자열 뒤집기
   - DAY10_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181905
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_C.cpp
-- [ ] 새로 읽기
+- [x] 새로 읽기
   - DAY10_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181904
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_D.cpp
-- [ ] qr code
+- [x] qr code
   - DAY10_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181903
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_E.cpp
+---
+### Day 11
+- [ ] 문자 개수 세기
+  - DAY11_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181902
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_A.cpp
+- [ ] 배열 만들기 1
+  - DAY11_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181901
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_B.cpp
+- [ ] 글자 지우기
+  - DAY11_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181900
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_C.cpp
+- [ ] 카운트 다운
+  - DAY11_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181899
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_D.cpp
+- [ ] 가까운 1 찾기
+  - DAY11_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181898
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_E.cpp
 
