@@ -219,24 +219,46 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY10_E.cpp
 ---
 ### Day 11
-- [ ] 문자 개수 세기
+- [x] 문자 개수 세기
   - DAY11_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181902
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_A.cpp
-- [ ] 배열 만들기 1
+- [x] 배열 만들기 1
   - DAY11_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181901
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_B.cpp
-- [ ] 글자 지우기
+- [x] 글자 지우기
   - DAY11_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181900
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_C.cpp
-- [ ] 카운트 다운
+- [x] 카운트 다운
   - DAY11_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181899
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_D.cpp
-- [ ] 가까운 1 찾기
+- [x] 가까운 1 찾기
   - DAY11_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181898
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_E.cpp
+---
+### Day 12
+- [ ] 리스트 자르기
+  - DAY12_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181897
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_A.cpp
+- [ ] 첫 번째로 나오는 음수
+  - DAY12_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181896
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_B.cpp
+- [ ] 배열 만들기 3
+  - DAY12_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181895
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_C.cpp
+- [ ] 2의 영역
+  - DAY12_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181894
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_D.cpp
+- [ ] 배열 조각하기
+  - DAY12_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181893
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_E.cpp
 
