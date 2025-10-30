@@ -241,24 +241,45 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY11_E.cpp
 ---
 ### Day 12
-- [ ] 리스트 자르기
+- [x] 리스트 자르기
   - DAY12_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181897
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_A.cpp
-- [ ] 첫 번째로 나오는 음수
+- [x] 첫 번째로 나오는 음수
   - DAY12_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181896
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_B.cpp
-- [ ] 배열 만들기 3
+- [x] 배열 만들기 3
   - DAY12_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181895
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_C.cpp
-- [ ] 2의 영역
+- [x] 2의 영역
   - DAY12_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181894
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_D.cpp
-- [ ] 배열 조각하기
+- [x] 배열 조각하기
   - DAY12_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181893
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_E.cpp
-
+---
+### Day 13
+- [ ] n 번째 원소부터
+  - DAY13_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181892
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_A.cpp
+- [ ] 순서 바꾸기
+  - DAY13_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181891
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_B.cpp
+- [ ] 왼쪽 오른쪽
+  - DAY13_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181890
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_C.cpp
+- [ ] n 번째 원소까지
+  - DAY13_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181889
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_D.cpp
+- [ ] n개 간격의 원소들
+  - DAY13_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181888
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_E.cpp

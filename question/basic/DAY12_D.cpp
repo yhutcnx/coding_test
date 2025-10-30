@@ -3,6 +3,21 @@ using namespace std;
 
 vector<int> solution(vector<int> arr) {
     vector<int> answer;
+
+    vector<int> t = arr;
+
+    int startIdx = find(t.begin(), t.end(), 2) - t.begin();
+
+    if(startIdx == t.size()){
+        answer.push_back(-1);
+        return answer;
+    }
+ 
+    reverse(t.begin(), t.end());
+    int lastIdx = find(t.begin(), t.end(), 2) - t.begin();
+
+    answer = {arr.begin() + startIdx, arr.begin() + (arr.size() - lastIdx)};
+
     return answer;
 }
 

@@ -15,6 +15,8 @@ int solution(int n, vector<vector<int>> computers) {
         }
 
         int thisTarget = q.front();
+
+        std::cout << thisTarget << " ";
         q.pop();
             
         for(int i = 0; i < computers[thisTarget].size(); i++){
@@ -28,33 +30,33 @@ int solution(int n, vector<vector<int>> computers) {
         bfs();
     };
 
-    function<void()> dfs = [&](){
+    function<void(int)> dfs = [&](int index){
+
+        if(check[index]) return;
+        check[index] = 1;
+
         if(q.empty()) {
             answer++;
             return;
         }
 
-        int thisTarget = q.front();
-        q.pop();
-        check[thisTarget] = 1;
-            
-        for(int i = 0; i < computers[thisTarget].size(); i++){
-            if(check[thisTarget]) continue;
-            if(!computers[thisTarget][i]) continue;
+        for(int i = 0; i < computers[index].size(); i++){
+            if(!computers[index][i]) continue;
             q.push(i);
+            dfs(q.front());
+            q.pop();
         }
 
-        dfs();
     };
 
     for(int i = 0; i < n; i++){
         if(check[i]) continue;
-        q.push(i);
-        dfs();
+        dfs(i);
     }
 
     return answer;
 }
+
 
 int main(void) {
 
