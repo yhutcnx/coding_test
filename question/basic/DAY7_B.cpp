@@ -1,6 +1,14 @@
 #include "bits/stdc++.h"
 using namespace std;
 
+
+
+
+
+
+
+
+
 // vector<int> solution(int l, int r) {
 //     vector<int> answer;
 
@@ -30,6 +38,7 @@ using namespace std;
 
 //     return answer;
 // }
+
 
 
 vector<int> solution(int l, int r) {

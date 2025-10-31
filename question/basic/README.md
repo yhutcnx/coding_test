@@ -263,23 +263,45 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY12_E.cpp
 ---
 ### Day 13
-- [ ] n 번째 원소부터
+- [x] n 번째 원소부터
   - DAY13_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181892
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_A.cpp
-- [ ] 순서 바꾸기
+- [x] 순서 바꾸기
   - DAY13_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181891
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_B.cpp
-- [ ] 왼쪽 오른쪽
+- [x] 왼쪽 오른쪽
   - DAY13_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181890
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_C.cpp
-- [ ] n 번째 원소까지
+- [x] n 번째 원소까지
   - DAY13_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181889
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_D.cpp
-- [ ] n개 간격의 원소들
+- [x] n개 간격의 원소들
   - DAY13_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181888
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_E.cpp
+---
+### Day 14
+- [ ] 홀수 vs 짝수
+  - DAY14_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181887
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_A.cpp
+- [ ] 5명씩
+  - DAY14_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181886
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_B.cpp
+- [ ] 할 일 목록
+  - DAY14_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181885
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_C.cpp
+- [ ] n보다 커질 때까지 더하기
+  - DAY14_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181884
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_D.cpp
+- [ ] 수열과 구간 쿼리 1
+  - DAY14_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181883
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_E.cpp
