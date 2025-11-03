@@ -285,23 +285,45 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY13_E.cpp
 ---
 ### Day 14
-- [ ] 홀수 vs 짝수
+- [x] 홀수 vs 짝수
   - DAY14_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181887
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_A.cpp
-- [ ] 5명씩
+- [x] 5명씩
   - DAY14_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181886
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_B.cpp
-- [ ] 할 일 목록
+- [x] 할 일 목록
   - DAY14_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181885
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_C.cpp
-- [ ] n보다 커질 때까지 더하기
+- [x] n보다 커질 때까지 더하기
   - DAY14_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181884
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_D.cpp
-- [ ] 수열과 구간 쿼리 1
+- [x] 수열과 구간 쿼리 1
   - DAY14_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181883
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_E.cpp
+---
+### Day 15
+- [ ] 조건에 맞게 수열 변환하기 1
+  - DAY15_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181882
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_A.cpp
+- [ ] 조건에 맞게 수열 변환하기 2
+  - DAY15_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181881
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_B.cpp
+- [ ] 1로 만들기
+  - DAY15_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181880
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_C.cpp
+- [ ] 길이에 따른 연산
+  - DAY15_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181879
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_D.cpp
+- [ ] 원하는 문자열 찾기
+  - DAY15_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181878
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_E.cpp
