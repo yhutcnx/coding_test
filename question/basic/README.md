@@ -307,23 +307,45 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY14_E.cpp
 ---
 ### Day 15
-- [ ] 조건에 맞게 수열 변환하기 1
+- [x] 조건에 맞게 수열 변환하기 1
   - DAY15_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181882
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_A.cpp
-- [ ] 조건에 맞게 수열 변환하기 2
+- [x] 조건에 맞게 수열 변환하기 2
   - DAY15_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181881
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_B.cpp
-- [ ] 1로 만들기
+- [x] 1로 만들기
   - DAY15_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181880
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_C.cpp
-- [ ] 길이에 따른 연산
+- [x] 길이에 따른 연산
   - DAY15_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181879
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_D.cpp
-- [ ] 원하는 문자열 찾기
+- [x] 원하는 문자열 찾기
   - DAY15_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181878
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_E.cpp
+---
+### Day 16
+- [ ] 대문자로 바꾸기
+  - DAY16_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181877
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_A.cpp
+- [ ] 소문자로 바꾸기
+  - DAY16_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181876
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_B.cpp
+- [ ] 배열에서 문자열 대소문자 변환
+  - DAY16_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181875
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_C.cpp
+- [ ] A 강조하기
+  - DAY16_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181874
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_D.cpp
+- [ ] 특정한 문자를 대문자로 바꾸기
+  - DAY16_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181873
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_E.cpp

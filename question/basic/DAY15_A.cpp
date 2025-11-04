@@ -4,6 +4,19 @@ using namespace std;
 
 vector<int> solution(vector<int> arr) {
     vector<int> answer;
+
+    for(auto num : arr){
+        if(num & 1){
+            if(num < 50) answer.push_back(num * 2);
+            else answer.push_back(num);
+        }
+        else {
+            if(num >= 50) answer.push_back(num >> 1);
+            else answer.push_back(num);
+        }
+
+    }
+
     return answer;
 }
 
