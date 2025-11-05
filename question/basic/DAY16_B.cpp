@@ -3,6 +3,7 @@ using namespace std;
 
 string solution(string myString) {
     string answer = "";
+    transform(myString.begin(), myString.end(), answer.begin(), ::tolower);
     return answer;
 }
 

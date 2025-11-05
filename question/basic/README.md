@@ -329,23 +329,45 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY15_E.cpp
 ---
 ### Day 16
-- [ ] 대문자로 바꾸기
+- [x] 대문자로 바꾸기
   - DAY16_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181877
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_A.cpp
-- [ ] 소문자로 바꾸기
+- [x] 소문자로 바꾸기
   - DAY16_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181876
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_B.cpp
-- [ ] 배열에서 문자열 대소문자 변환
+- [x] 배열에서 문자열 대소문자 변환
   - DAY16_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181875
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_C.cpp
-- [ ] A 강조하기
+- [x] A 강조하기
   - DAY16_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181874
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_D.cpp
-- [ ] 특정한 문자를 대문자로 바꾸기
+- [x] 특정한 문자를 대문자로 바꾸기
   - DAY16_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181873
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_E.cpp
+---
+### Day 17
+- [ ] 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기
+  - DAY17_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181872
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_A.cpp
+- [ ] 문자열이 몇 번 등장하는지 세기
+  - DAY17_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181871
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_B.cpp
+- [ ] ad 제거하기
+  - DAY17_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181870
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_C.cpp
+- [ ] 공백으로 구분하기 1
+  - DAY17_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181869
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_D.cpp
+- [ ] 공백으로 구분하기 2
+  - DAY17_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181868
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_E.cpp
