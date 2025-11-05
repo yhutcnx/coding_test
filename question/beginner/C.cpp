@@ -4,7 +4,6 @@ using namespace std;
 int solution(vector<int> common) {
     int answer = 0;
 
-
     // true -> 등차, false -> 등비
     bool flags = false;
 
