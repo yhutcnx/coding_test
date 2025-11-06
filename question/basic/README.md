@@ -351,23 +351,45 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY16_E.cpp
 ---
 ### Day 17
-- [ ] 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기
+- [x] 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기
   - DAY17_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181872
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_A.cpp
-- [ ] 문자열이 몇 번 등장하는지 세기
+- [x] 문자열이 몇 번 등장하는지 세기
   - DAY17_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181871
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_B.cpp
-- [ ] ad 제거하기
+- [x] ad 제거하기
   - DAY17_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181870
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_C.cpp
-- [ ] 공백으로 구분하기 1
+- [x] 공백으로 구분하기 1
   - DAY17_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181869
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_D.cpp
-- [ ] 공백으로 구분하기 2
+- [x] 공백으로 구분하기 2
   - DAY17_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181868
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_E.cpp
+---
+### Day 18
+- [ ] x 사이의 개수
+  - DAY18_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181867
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_A.cpp
+- [ ] 문자열 잘라서 정렬하기
+  - DAY18_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181866
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_B.cpp
+- [ ] 간단한 식 계산하기
+  - DAY18_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181865
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_C.cpp
+- [ ] 문자열 바꿔서 찾기
+  - DAY18_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181864
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_D.cpp
+- [ ] my_string
+  - DAY18_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181863
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_E.cpp

@@ -1,8 +1,14 @@
 #include "bits/stdc++.h"
 using namespace std;
 
-string solution(string myString, string pat) {
-    string answer = "";
+int solution(string myString, string pat) {
+    int answer = 0;
+    size_t t = -1;
+    while(true){
+        t = myString.find(pat, t + 1);
+        if(t == string::npos) break;
+        answer++;
+    }
     return answer;
 }
 
