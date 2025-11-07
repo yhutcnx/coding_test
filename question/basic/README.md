@@ -373,23 +373,45 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY17_E.cpp
 ---
 ### Day 18
-- [ ] x 사이의 개수
+- [x] x 사이의 개수
   - DAY18_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181867
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_A.cpp
-- [ ] 문자열 잘라서 정렬하기
+- [x] 문자열 잘라서 정렬하기
   - DAY18_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181866
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_B.cpp
-- [ ] 간단한 식 계산하기
+- [x] 간단한 식 계산하기
   - DAY18_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181865
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_C.cpp
-- [ ] 문자열 바꿔서 찾기
+- [x] 문자열 바꿔서 찾기
   - DAY18_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181864
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_D.cpp
-- [ ] my_string
+- [x] my_string
   - DAY18_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181863
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_E.cpp
+---
+### Day 19
+- [ ] 세 개의 구분자
+  - DAY19_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181862
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_A.cpp
+- [ ] 배열의 원소만큼 추가하기
+  - DAY19_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181861
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_B.cpp
+- [ ] 빈 배열에 추가, 삭제하기
+  - DAY19_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181860
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_C.cpp
+- [ ] 배열 만들기 6
+  - DAY19_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181859
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_D.cpp
+- [ ] 무작위로 K개의 수 뽑기
+  - DAY19_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181858
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_E.cpp

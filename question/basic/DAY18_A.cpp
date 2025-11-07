@@ -3,6 +3,30 @@ using namespace std;
 
 vector<int> solution(string myString) {
     vector<int> answer;
+
+    size_t start = 0;
+    size_t end = myString.find("x", start);
+
+    if(end == string::npos) {
+        answer.push_back(0);
+        return answer;
+    }
+
+    answer.push_back(end - start);
+    start = end;
+
+
+    while(true){
+        size_t t_end = myString.find("x", start + 1);
+        if(t_end == string::npos) {
+            answer.push_back(myString.size() - end - 1);
+            break;
+        }
+        end = t_end;
+        answer.push_back(end - start - 1);
+        start = end;
+    }   
+    
     return answer;
 }
 
