@@ -3,6 +3,21 @@ using namespace std;
 
 vector<int> solution(vector<int> arr, int k) {
     vector<int> answer;
+
+    unordered_map<int, int> history;
+    for(auto num : arr){
+        if(history[num]) continue;
+
+        answer.push_back(num);
+        if(answer.size() >= k) break;
+
+        history[num]++;
+    }
+
+    for(int i = answer.size(); i < k; i++){
+        answer.push_back(-1);
+    }
+
     return answer;
 }
 

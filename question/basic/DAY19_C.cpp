@@ -1,8 +1,20 @@
 #include "bits/stdc++.h"
 using namespace std;
 
-vector<int> solution(vector<int> arr, vector<bool> flag) {
+vector<int> solution(vector<int> arr, vector<bool> flags) {
     vector<int> answer;
+
+    for(int i = 0; i < arr.size(); i++){
+        int num = arr[i];
+        int flag = flags[i];
+
+        if(flag){
+            for(int i = 0; i < num * 2; i++) answer.push_back(num);
+        }
+        else {
+            for(int i = 0; i < num; i++) answer.pop_back();
+        }
+    }
     return answer;
 }
 

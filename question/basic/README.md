@@ -395,23 +395,45 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY18_E.cpp
 ---
 ### Day 19
-- [ ] 세 개의 구분자
+- [x] 세 개의 구분자
   - DAY19_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181862
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_A.cpp
-- [ ] 배열의 원소만큼 추가하기
+- [x] 배열의 원소만큼 추가하기
   - DAY19_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181861
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_B.cpp
-- [ ] 빈 배열에 추가, 삭제하기
+- [x] 빈 배열에 추가, 삭제하기
   - DAY19_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181860
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_C.cpp
-- [ ] 배열 만들기 6
+- [x] 배열 만들기 6
   - DAY19_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181859
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_D.cpp
-- [ ] 무작위로 K개의 수 뽑기
+- [x] 무작위로 K개의 수 뽑기
   - DAY19_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181858
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_E.cpp
+---
+### Day 20
+- [ ] 배열의 길이를 2의 거듭제곱으로 만들기
+  - DAY20_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181857
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_A.cpp
+- [ ] 배열 비교하기
+  - DAY20_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181856
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_B.cpp
+- [ ] 문자열 묶기
+  - DAY20_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181855
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_C.cpp
+- [ ] 배열의 길이에 따라 다른 연산하기
+  - DAY20_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181854
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_D.cpp
+- [ ] 뒤에서 5등까지
+  - DAY20_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181853
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_E.cpp
