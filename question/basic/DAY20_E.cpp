@@ -2,8 +2,12 @@
 using namespace std;
 
 vector<int> solution(vector<int> num_list) {
-    vector<int> answer;
-    return answer;
+    sort(num_list.begin(), num_list.end(), [&](int a, int b) {
+        return a < b;
+    });
+
+    num_list.erase(num_list.begin() + 5, num_list.end());
+    return num_list;
 }
 
 int main(void) {

@@ -417,23 +417,45 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY19_E.cpp
 ---
 ### Day 20
-- [ ] 배열의 길이를 2의 거듭제곱으로 만들기
+- [x] 배열의 길이를 2의 거듭제곱으로 만들기
   - DAY20_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181857
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_A.cpp
-- [ ] 배열 비교하기
+- [x] 배열 비교하기
   - DAY20_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181856
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_B.cpp
-- [ ] 문자열 묶기
+- [x] 문자열 묶기
   - DAY20_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181855
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_C.cpp
-- [ ] 배열의 길이에 따라 다른 연산하기
+- [x] 배열의 길이에 따라 다른 연산하기
   - DAY20_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181854
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_D.cpp
-- [ ] 뒤에서 5등까지
+- [x] 뒤에서 5등까지
   - DAY20_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181853
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_E.cpp
+---
+### Day 21
+- [ ] 뒤에서 5등 위로
+  - DAY21_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181852
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_A.cpp
+- [ ] 전국 대회 선발 고사
+  - DAY21_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181851
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_B.cpp
+- [ ] 정수 부분
+  - DAY21_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181850
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_C.cpp
+- [ ] 문자열 정수의 합
+  - DAY21_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181849
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_D.cpp
+- [ ] 문자열을 정수로 변환하기
+  - DAY21_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181848
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_E.cpp

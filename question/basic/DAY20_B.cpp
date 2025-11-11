@@ -3,6 +3,39 @@ using namespace std;
 
 int solution(vector<int> arr1, vector<int> arr2) {
     int answer = 0;
+
+    int arr1Size = arr1.size();
+    int arr2Size = arr2.size();
+
+    if(arr1Size == arr2Size){
+
+        int arr1Sum = 0;
+        int arr2Sum = 0;
+        
+        arr1Sum = accumulate(arr1.begin(), arr1.end(), 0, [&](int a, int b){return a + b;});
+        arr2Sum = accumulate(arr2.begin(), arr2.end(), 0, [&](int a, int b){return a + b;});
+
+        if(arr1Sum > arr2Sum) {
+            answer = 1;
+        }
+        else if (arr1Sum < arr2Sum){
+            answer = -1;
+        }
+        else {
+            answer = 0;
+        }
+
+    }
+    else {
+        if(arr1Size > arr2Size){
+            answer = 1;
+        }
+        else {
+            answer = -1;
+        }
+    }
+
+
     return answer;
 }
 

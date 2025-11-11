@@ -2,8 +2,24 @@
 using namespace std;
 
 int solution(vector<string> strArr) {
-    int answer = 0;
-    return answer;
+    unordered_map<int, int> m;
+    for(auto str: strArr){
+        m[str.size()]++;
+    }
+
+    vector<pair<int, int> > v = {m.begin(), m.end()};
+
+
+    sort(v.begin(), v.end(), [&](pair<int, int> a, pair<int, int> b) {
+
+        return a.second > b.second;
+    });
+
+
+
+
+
+    return v[0].second;
 }
 
 int main(void) {
