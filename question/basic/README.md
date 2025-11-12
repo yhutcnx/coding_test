@@ -439,23 +439,45 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY20_E.cpp
 ---
 ### Day 21
-- [ ] 뒤에서 5등 위로
+- [x] 뒤에서 5등 위로
   - DAY21_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181852
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_A.cpp
-- [ ] 전국 대회 선발 고사
+- [x] 전국 대회 선발 고사
   - DAY21_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181851
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_B.cpp
-- [ ] 정수 부분
+- [x] 정수 부분
   - DAY21_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181850
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_C.cpp
-- [ ] 문자열 정수의 합
+- [x] 문자열 정수의 합
   - DAY21_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181849
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_D.cpp
-- [ ] 문자열을 정수로 변환하기
+- [x] 문자열을 정수로 변환하기
   - DAY21_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181848
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_E.cpp
+---
+### Day 22
+- [ ] 0 떼기
+  - DAY22_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181847
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY22_A.cpp
+- [ ] 두 수의 합
+  - DAY22_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181846
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY22_B.cpp
+- [ ] 문자열로 변환
+  - DAY22_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181845
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY22_C.cpp
+- [ ] 배열의 원소 삭제하기
+  - DAY22_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181844
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY22_D.cpp
+- [ ] 부분 문자열인지 확인하기
+  - DAY22_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181843
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY22_E.cpp

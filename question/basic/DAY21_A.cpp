@@ -2,8 +2,11 @@
 using namespace std;
 
 vector<int> solution(vector<int> num_list) {
-    vector<int> answer;
-    return answer;
+
+    sort(num_list.begin(), num_list.end());
+
+    num_list.erase(num_list.begin(), num_list.begin() + 5);
+    return num_list;
 }
 
 int main(void) {

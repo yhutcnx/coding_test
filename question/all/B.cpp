@@ -8,6 +8,8 @@ int solution(vector<vector<int>> board, vector<int> moves) {
     for(auto move: moves){
 
         for(int i = 0; i < board.size(); i++){
+
+            // move가 1부터 인덱싱이라서, -1 진행
             int t = board[i][move - 1];
             if(t){
                 st.push_back(t);
