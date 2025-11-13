@@ -2,8 +2,8 @@
 using namespace std;
 
 int solution(string my_string, string target) {
-    int answer = 0;
-    return answer;
+    
+    return my_string.find(target) != string::npos;
 }
 
 int main(void) {
