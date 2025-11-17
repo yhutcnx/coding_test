@@ -461,23 +461,67 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY21_E.cpp
 ---
 ### Day 22
-- [ ] 0 떼기
+- [x] 0 떼기
   - DAY22_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181847
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY22_A.cpp
-- [ ] 두 수의 합
+- [x] 두 수의 합
   - DAY22_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181846
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY22_B.cpp
-- [ ] 문자열로 변환
+- [x] 문자열로 변환
   - DAY22_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181845
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY22_C.cpp
-- [ ] 배열의 원소 삭제하기
+- [x] 배열의 원소 삭제하기
   - DAY22_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181844
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY22_D.cpp
-- [ ] 부분 문자열인지 확인하기
+- [x] 부분 문자열인지 확인하기
   - DAY22_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181843
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY22_E.cpp
+---
+### Day 23
+- [x] 부분 문자열
+  - DAY23_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181842
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY23_A.cpp
+- [x] 꼬리 문자열
+  - DAY23_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181841
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY23_B.cpp
+- [x] 정수 찾기
+  - DAY23_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181840
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY23_C.cpp
+- [x] 주사위 게임 1
+  - DAY23_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181839
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY23_D.cpp
+- [x] 날짜 비교하기
+  - DAY23_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181838
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY23_E.cpp
+---
+### Day 24
+- [ ] 커피 심부름
+  - DAY24_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181837
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY24_A.cpp
+- [ ] 그림 확대
+  - DAY24_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181836
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY24_B.cpp
+- [ ] 조건에 맞게 수열 변환하기
+  - DAY24_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181835
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY24_C.cpp
+- [ ] l로 만들기
+  - DAY24_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181834
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY24_D.cpp
+- [ ] 특별한 2차원 배열
+  - DAY24_E.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181833
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY24_E.cpp
