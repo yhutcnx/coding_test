@@ -2,8 +2,12 @@
 using namespace std;
 
 string solution(string myString) {
-    string answer = "";
-    return answer;
+
+    for(auto& c : myString){
+
+        if(c < 'l') c = 'l';
+    }
+    return myString;
 }
 
 int main(void) {

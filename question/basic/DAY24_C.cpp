@@ -2,8 +2,18 @@
 using namespace std;
 
 vector<int> solution(vector<int> arr, int k) {
-    vector<int> answer;
-    return answer;
+
+    for(auto& num : arr){
+        if(k & 1){
+            num *= k;
+        }
+        else {
+            num += k;
+        }
+
+    }
+
+    return arr;
 }
 
 int main(void) {

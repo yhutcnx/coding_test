@@ -505,23 +505,42 @@
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY23_E.cpp
 ---
 ### Day 24
-- [ ] 커피 심부름
+- [x] 커피 심부름
   - DAY24_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181837
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY24_A.cpp
-- [ ] 그림 확대
+- [x] 그림 확대
   - DAY24_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181836
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY24_B.cpp
-- [ ] 조건에 맞게 수열 변환하기
+- [x] 조건에 맞게 수열 변환하기
   - DAY24_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181835
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY24_C.cpp
-- [ ] l로 만들기
+- [x] l로 만들기
   - DAY24_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181834
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY24_D.cpp
-- [ ] 특별한 2차원 배열
+- [x] 특별한 2차원 배열
   - DAY24_E.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181833
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY24_E.cpp
+
+---
+### Day 25
+- [] 정수를 나선형으로 배치하기
+  - DAY25_A.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181832
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY25_A.cpp
+- [ ] 특별한 이차원 배열 2
+  - DAY25_B.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181831
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY25_B.cpp
+- [ ] 정사각형으로 만들기
+  - DAY25_C.cpp 
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181830
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY25_C.cpp
+- [ ] 이차원 배열 대각선 순회하기
+  - DAY25_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/181829
+  - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY25_D.cpp
