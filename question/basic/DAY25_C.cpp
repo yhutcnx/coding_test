@@ -2,8 +2,29 @@
 using namespace std;
 
 vector<vector<int>> solution(vector<vector<int>> arr) {
-    vector<vector<int>> answer;
-    return answer;
+
+
+    int rows = arr.size();
+    int cols = arr[0].size();
+
+    int targetSize = max(rows, cols);
+
+    if(rows < targetSize){
+        for(int i = rows; i < targetSize; i++){
+            vector<int> t(targetSize);
+            arr.push_back(t);
+        }
+    }
+    else if (cols < targetSize){
+        for(int i = 0; i < targetSize; i++){
+            for(int j = cols; j < targetSize; j++){
+                arr[i].push_back(0);
+            }
+        }
+    }
+
+
+    return arr;
 }
 
 int main(void) {

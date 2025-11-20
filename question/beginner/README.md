@@ -16,22 +16,39 @@
    - https://school.programmers.co.kr/learn/courses/30/lessons/120805
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY1_D.cpp
 ### Day 2
-- [ ] 두 수의 나눗셈
+- [x] 두 수의 나눗셈
    - DAY2_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120806
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY2_A.cpp
-- [ ] 숫자 비교하기
+- [x] 숫자 비교하기
    - DAY2_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120807
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY2_B.cpp
-- [ ] 분수의 덧셈
+- [x] 분수의 덧셈
    - DAY2_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120808
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY2_C.cpp
-- [ ] 배열 두 배 만들기
+- [x] 배열 두 배 만들기
    - DAY2_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120809
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY2_D.cpp
+### Day 3
+- [ ] 나머지 구하기
+   - DAY3_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120810
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY3_A.cpp
+- [ ] 중앙값 구하기
+   - DAY3_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120811
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY3_B.cpp
+- [ ] 최빈값 구하기
+   - DAY3_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120812
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY3_C.cpp
+- [ ] 짝수는 싫어요
+   - DAY3_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120813
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY3_D.cpp
 
 
 

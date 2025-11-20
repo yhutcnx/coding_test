@@ -528,19 +528,19 @@
 
 ---
 ### Day 25
-- [] 정수를 나선형으로 배치하기
+- [x] 정수를 나선형으로 배치하기
   - DAY25_A.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181832
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY25_A.cpp
-- [ ] 특별한 이차원 배열 2
+- [x] 특별한 이차원 배열 2
   - DAY25_B.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181831
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY25_B.cpp
-- [ ] 정사각형으로 만들기
+- [x] 정사각형으로 만들기
   - DAY25_C.cpp 
   - https://school.programmers.co.kr/learn/courses/30/lessons/181830
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY25_C.cpp
-- [ ] 이차원 배열 대각선 순회하기
+- [x] 이차원 배열 대각선 순회하기
   - DAY25_D.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/181829
   - https://github.com/yhutcnx/coding_test/blob/main/question/basic/DAY25_D.cpp

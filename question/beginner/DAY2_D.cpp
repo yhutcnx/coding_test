@@ -2,8 +2,8 @@
 using namespace std;
 
 vector<int> solution(vector<int> numbers) {
-    vector<int> answer;
-    return answer;
+    transform(numbers.begin(), numbers.end(), numbers.begin(), [&](int a){return a * 2;});
+    return numbers;
 }
 
 int main(void) {
