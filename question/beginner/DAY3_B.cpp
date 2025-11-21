@@ -2,8 +2,10 @@
 using namespace std;
 
 int solution(vector<int> array) {
-    int answer = 0;
-    return answer;
+
+    sort(array.begin(), array.end());
+
+    return array[array.size() / 2];
 }
 
 int main(void) {

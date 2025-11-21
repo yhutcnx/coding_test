@@ -25,11 +25,15 @@ string solution(vector<string> survey, vector<int> choices) {
         m[t_surv].second += t_choice;
     }
 
-    
+    vector<pair<string, pair<int, int> > > t = {m.begin(), m.end()};
+    sort(t.begin(), t.end(), [&](pair<string, pair<int, int> > a, pair<string, pair<int, int> > b){
+        return a.second.first < b.second.first;
+    });
 
-
-
-
+    for(auto tt : t){
+        if(tt.second.second <= 0) answer.push_back(tt.first[0]);
+        else answer.push_back(tt.first[1]);
+    }
 
     return answer;
 

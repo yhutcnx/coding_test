@@ -1,4 +1,4 @@
-### Day 1
+### Day1
 - [x] 두 수의 합 구하기
    - DAY1_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120802
@@ -15,7 +15,8 @@
    - DAY1_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120805
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY1_D.cpp
-### Day 2
+---
+### Day2
 - [x] 두 수의 나눗셈
    - DAY2_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120806
@@ -32,23 +33,43 @@
    - DAY2_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120809
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY2_D.cpp
-### Day 3
-- [ ] 나머지 구하기
+---
+### Day3
+- [x] 나머지 구하기
    - DAY3_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120810
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY3_A.cpp
-- [ ] 중앙값 구하기
+- [x] 중앙값 구하기
    - DAY3_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120811
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY3_B.cpp
-- [ ] 최빈값 구하기
+- [x] 최빈값 구하기
    - DAY3_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120812
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY3_C.cpp
-- [ ] 짝수는 싫어요
+- [x] 짝수는 싫어요
    - DAY3_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120813
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY3_D.cpp
+---
+### Day4
+- [ ] 피자 나눠 먹기 (1)
+   - DAY4_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120814
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY4_A.cpp
+- [ ] 피자 나눠 먹기 (2)
+   - DAY4_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120815
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY4_B.cpp
+- [ ] 피자 나눠 먹기 (3)
+   - DAY4_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120816
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY4_C.cpp
+- [ ] 배열의 평균값
+   - DAY4_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120817
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY4_D.cpp
+---
 
 
 
@@ -56,15 +77,18 @@
 - [x] 외계어 사전
   - DAY21_N.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/120869
+---
 
 ### Day23
 - [x] 옹알이 (1)
   - DAY23_N.cpp
+---
 
 ### Day24
 - [x] 치킨 쿠폰
   - DAY24_N.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/120884
+---
 
 ### Day25
 - [x] 다음에 올 숫자
