@@ -53,23 +53,40 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY3_D.cpp
 ---
 ### Day4
-- [ ] 피자 나눠 먹기 (1)
+- [x] 피자 나눠 먹기 (1)
    - DAY4_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120814
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY4_A.cpp
-- [ ] 피자 나눠 먹기 (2)
+- [x] 피자 나눠 먹기 (2)
    - DAY4_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120815
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY4_B.cpp
-- [ ] 피자 나눠 먹기 (3)
+- [x] 피자 나눠 먹기 (3)
    - DAY4_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120816
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY4_C.cpp
-- [ ] 배열의 평균값
+- [x] 배열의 평균값
    - DAY4_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120817
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY4_D.cpp
 ---
+### Day5
+- [ ] 옷가게 할인 받기
+   - DAY5_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120818
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY5_A.cpp
+- [ ] 아이스 아메리카노
+   - DAY5_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120819
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY5_B.cpp
+- [ ] 나이 출력
+   - DAY5_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120820
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY5_C.cpp
+- [ ] 배열 뒤집기
+   - DAY5_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120821
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY5_D.cpp
 
 
 

@@ -2,8 +2,16 @@
 using namespace std;
 
 int solution(int n) {
-    int answer = 0;
+
+
+    int answer = 1;
+    for(int i = 1; i < 16; i++){
+        if(n >= (i - 1) * 7 && n <= i * 7) return i;
+    }
+
     return answer;
+
+
 }
 
 int main(void) {

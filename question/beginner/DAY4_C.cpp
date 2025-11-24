@@ -2,8 +2,14 @@
 using namespace std;
 
 int solution(int slice, int n) {
-    int answer = 0;
-    return answer;
+    int cnt = 1;
+    while(true){
+        int t = cnt * slice;
+        if(t >= n) return cnt;
+        cnt++;
+    }
+
+    return cnt;
 }
 
 int main(void) {

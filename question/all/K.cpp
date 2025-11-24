@@ -21,11 +21,15 @@ string solution(vector<string> survey, vector<int> choices) {
             t_surv = string() + t_surv[1] + t_surv[0];
             t_choice = 8 - t_choice;
         }
+
         t_choice -= 4;
         m[t_surv].second += t_choice;
     }
 
+    // index가 있으니, 배열 쓸 필요가 없음.
+
     vector<pair<string, pair<int, int> > > t = {m.begin(), m.end()};
+
     sort(t.begin(), t.end(), [&](pair<string, pair<int, int> > a, pair<string, pair<int, int> > b){
         return a.second.first < b.second.first;
     });

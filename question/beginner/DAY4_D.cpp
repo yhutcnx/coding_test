@@ -3,6 +3,10 @@ using namespace std;
 
 double solution(vector<int> numbers) {
     double answer = 0;
+
+    auto m = accumulate(numbers.begin(), numbers.end(), 0, [&](int a, int b) {return a + b;});
+    answer = (double)m / numbers.size();
+
     return answer;
 }
 

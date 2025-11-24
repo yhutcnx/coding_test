@@ -8,7 +8,7 @@ int solution(vector<int> array) {
     for(auto num : array) m[num]++;
 
     vector<pair<int, int> > v = {m.begin(), m.end()};
-    sort(v.begin(), v.end(), [&](pair<int, int> a, pair<int, int> b){return a.second > b.second; });
+    sort(v.begin(), v.end(), [&] (pair<int, int> a, pair<int, int> b){return a.second > b.second; });
 
     answer = v[0].first;
 
