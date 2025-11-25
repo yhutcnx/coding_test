@@ -2,8 +2,10 @@
 using namespace std;
 
 int solution(int age) {
-    int answer = 0;
-    return answer;
+
+    int thisYear = 2022;
+
+    return thisYear - age + 1;
 }
 
 int main(void) {

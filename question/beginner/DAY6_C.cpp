@@ -2,19 +2,19 @@
 using namespace std;
 
 vector<int> solution(vector<int> num_list) {
-    reverse(num_list.begin(), num_list.end());
-    return num_list;
+    vector<int> answer;
+    return answer;
 }
 
 int main(void) {
     vector<int> res;
 
-    res = solution({1,2,3,4,5});
+    res = solution({1, 2, 3, 4, 5});
     
     for(auto t:res){
         cout << t << ",";
     }
-    cout << "\n"; // [5,4,3,2,1]
+    cout << "\n"; // [2, 3]
 
     return 0;
 }

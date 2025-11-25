@@ -71,22 +71,40 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY4_D.cpp
 ---
 ### Day5
-- [ ] 옷가게 할인 받기
+- [x] 옷가게 할인 받기
    - DAY5_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120818
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY5_A.cpp
-- [ ] 아이스 아메리카노
+- [x] 아이스 아메리카노
    - DAY5_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120819
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY5_B.cpp
-- [ ] 나이 출력
+- [x] 나이 출력
    - DAY5_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120820
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY5_C.cpp
-- [ ] 배열 뒤집기
+- [x] 배열 뒤집기
    - DAY5_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120821
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY5_D.cpp
+---
+### Day6
+- [ ] 뒤집힌 문자열
+   - DAY6_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120822
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY6_A.cpp
+- [ ] 직각삼각형 출력하기
+   - DAY6_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120823
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY6_B.cpp
+- [ ] 짝수 홀수 개수
+   - DAY6_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120824
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY6_C.cpp
+- [ ] 문자 반복 출력하기
+   - DAY6_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120825
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY6_D.cpp
 
 
 

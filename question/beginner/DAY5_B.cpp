@@ -2,8 +2,9 @@
 using namespace std;
 
 vector<int> solution(int money) {
-    vector<int> answer;
-    return answer;
+    int aaPrice = 5500;
+
+    return {money / aaPrice, money % aaPrice};
 }
 
 int main(void) {
