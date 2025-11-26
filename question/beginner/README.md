@@ -104,7 +104,27 @@
 - [ ] 문자 반복 출력하기
    - DAY6_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120825
-   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY6_D.cpp
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY6_C.cpp
+
+
+---
+### Day7
+- [ ] 특정 문자 제거하기
+   - DAY7_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120826
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_A.cpp
+- [ ] 각도기
+   - DAY7_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120827
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_B.cpp
+- [ ] 양꼬치
+   - DAY7_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120828
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_C.cpp
+- [ ] 짝수의 합
+   - DAY7_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120829
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_D.cpp
 
 
 
