@@ -89,42 +89,58 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY5_D.cpp
 ---
 ### Day6
-- [ ] 뒤집힌 문자열
+- [x] 뒤집힌 문자열
    - DAY6_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120822
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY6_A.cpp
-- [ ] 직각삼각형 출력하기
+- [x] 직각삼각형 출력하기
    - DAY6_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120823
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY6_B.cpp
-- [ ] 짝수 홀수 개수
+- [x] 짝수 홀수 개수
    - DAY6_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120824
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY6_C.cpp
-- [ ] 문자 반복 출력하기
+- [x] 문자 반복 출력하기
    - DAY6_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120825
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY6_C.cpp
-
-
 ---
 ### Day7
-- [ ] 특정 문자 제거하기
+- [x] 특정 문자 제거하기
    - DAY7_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120826
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_A.cpp
-- [ ] 각도기
+- [x] 각도기
    - DAY7_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120827
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_B.cpp
-- [ ] 양꼬치
+- [x] 양꼬치
    - DAY7_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120828
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_C.cpp
-- [ ] 짝수의 합
+- [x] 짝수의 합
    - DAY7_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120829
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_D.cpp
+---
+### Day8
+- [ ] 배열 자르기
+   - DAY8_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120830
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_A.cpp
+- [ ] 외계행성의 나이
+   - DAY8_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120831
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_B.cpp
+- [ ] 진료순서 정하기
+   - DAY8_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120832
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_C.cpp
+- [ ] 순서쌍의 개수
+   - DAY8_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120833
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_D.cpp
 
 
 
