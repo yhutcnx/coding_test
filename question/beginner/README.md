@@ -125,22 +125,40 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_D.cpp
 ---
 ### Day8
-- [ ] 배열 자르기
+- [x] 배열 자르기
    - DAY8_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120830
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_A.cpp
-- [ ] 외계행성의 나이
+- [x] 외계행성의 나이
    - DAY8_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120831
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_B.cpp
-- [ ] 진료순서 정하기
+- [x] 진료순서 정하기
    - DAY8_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120832
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_C.cpp
-- [ ] 순서쌍의 개수
+- [x] 순서쌍의 개수
    - DAY8_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120833
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_D.cpp
+---
+### DAy9
+- [ ] 개미 군단
+   - DAY9_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120834
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_A.cpp
+- [ ] 모스부호 (1)
+   - DAY9_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120835
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_B.cpp
+- [ ] 가위 바위 보
+   - DAY9_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120836
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_C.cpp
+- [ ] 구슬을 나누는 경우의 수
+   - DAY9_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120837
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_D.cpp
 
 
 
