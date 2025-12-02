@@ -3,6 +3,24 @@ using namespace std;
 
 int solution(vector<vector<string>> relation) {
     int answer = 0;
+
+
+    for(int i = 0; i < relation[0].size(); i++){
+        set<string> s;
+
+        for(int j = 0; j < relation.size(); j++){
+            s.insert(relation[j][i]);
+        }
+
+
+        cout << s.size() << "\n\n";
+        if(s.size() == relation.size()) answer++;
+
+
+    }
+
+
+
     return answer;
 }
 

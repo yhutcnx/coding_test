@@ -142,23 +142,41 @@
    - https://school.programmers.co.kr/learn/courses/30/lessons/120833
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_D.cpp
 ---
-### DAy9
-- [ ] 개미 군단
+### DAY9
+- [x] 개미 군단
    - DAY9_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120834
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_A.cpp
-- [ ] 모스부호 (1)
+- [x] 모스부호 (1)
    - DAY9_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120835
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_B.cpp
-- [ ] 가위 바위 보
+- [x] 가위 바위 보
    - DAY9_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120836
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_C.cpp
-- [ ] 구슬을 나누는 경우의 수
+- [x] 구슬을 나누는 경우의 수
    - DAY9_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120837
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_D.cpp
+---
+### DAY10
+- [ ] 점의 위치 구하기
+   - DAY10_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120838
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_A.cpp
+- [ ] 2차원으로 만들기
+   - DAY10_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120839
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_B.cpp
+- [ ] 공 던지기
+   - DAY10_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120840
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_C.cpp
+- [ ] 배열 회전시키기
+   - DAY10_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120841
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_D.cpp
 
 
 
