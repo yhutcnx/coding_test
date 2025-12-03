@@ -58,7 +58,12 @@ int solution(int balls, int share) {
 
 int main(void) {
 
-    cout << solution(30, 15) << "\n"; // 3
+
+    for(int i = 2; i <= 30; i++){
+        for(int j = 1; j <= i; j++){
+            cout << i << " - " << j << " => " << solution(i, j) << "\n"; // 3
+        }
+    }
     // cout << solution(20, 2) << "\n"; // 3
     // cout << solution(30, 2) << "\n"; // 3
 

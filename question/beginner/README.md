@@ -113,88 +113,106 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_A.cpp
 - [x] 각도기
    - DAY7_B.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120827
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120829
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_B.cpp
 - [x] 양꼬치
    - DAY7_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120828
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120830
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_C.cpp
 - [x] 짝수의 합
    - DAY7_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120829
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120831
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY7_D.cpp
 ---
 ### Day8
 - [x] 배열 자르기
    - DAY8_A.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120830
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120833
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_A.cpp
 - [x] 외계행성의 나이
    - DAY8_B.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120831
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120834
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_B.cpp
 - [x] 진료순서 정하기
    - DAY8_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120832
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120835
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_C.cpp
 - [x] 순서쌍의 개수
    - DAY8_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120833
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120836
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY8_D.cpp
 ---
 ### DAY9
 - [x] 개미 군단
    - DAY9_A.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120834
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120837
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_A.cpp
 - [x] 모스부호 (1)
    - DAY9_B.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120835
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120838
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_B.cpp
 - [x] 가위 바위 보
    - DAY9_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120836
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120839
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_C.cpp
 - [x] 구슬을 나누는 경우의 수
    - DAY9_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120837
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120840
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_D.cpp
 ---
 ### DAY10
 - [x] 점의 위치 구하기
    - DAY10_A.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120838
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120841
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_A.cpp
 - [x] 2차원으로 만들기
    - DAY10_B.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120839
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120842
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_B.cpp
 - [x] 공 던지기
    - DAY10_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120840
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120843
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_C.cpp
 - [x] 배열 회전시키기
    - DAY10_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120841
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120844
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_D.cpp
 ---
 ### DAY11
-- [ ] 주사위의 개수
+- [x] 주사위의 개수
    - DAY11_A.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120842
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120845
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY11_A.cpp
-- [ ] 합성수 찾기
+- [x] 합성수 찾기
    - DAY11_B.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120843
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120846
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY11_B.cpp
-- [ ] 최댓값 만들기(1)
+- [x] 최댓값 만들기(1)
    - DAY11_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120844
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120847
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY11_C.cpp
 - [ ] 팩토리얼
    - DAY11_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/120845
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120848
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY11_D.cpp
+---
+### DAY12
+- [ ] 모음 제거
+   - DAY12_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120849
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY12_A.cpp
+- [ ] 문자열 정렬하기 (1)
+   - DAY12_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120850
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY12_B.cpp
+- [ ] 숨어있는 숫자의 덧셈 (1)
+   - DAY12_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120851
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY12_C.cpp
+- [ ] 소인수분해
+   - DAY12_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120852
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY12_D.cpp
 
 
 
