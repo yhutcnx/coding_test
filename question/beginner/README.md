@@ -161,22 +161,40 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY9_D.cpp
 ---
 ### DAY10
-- [ ] 점의 위치 구하기
+- [x] 점의 위치 구하기
    - DAY10_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120838
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_A.cpp
-- [ ] 2차원으로 만들기
+- [x] 2차원으로 만들기
    - DAY10_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120839
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_B.cpp
-- [ ] 공 던지기
+- [x] 공 던지기
    - DAY10_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120840
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_C.cpp
-- [ ] 배열 회전시키기
+- [x] 배열 회전시키기
    - DAY10_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120841
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY10_D.cpp
+---
+### DAY11
+- [ ] 주사위의 개수
+   - DAY11_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120842
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY11_A.cpp
+- [ ] 합성수 찾기
+   - DAY11_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120843
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY11_B.cpp
+- [ ] 최댓값 만들기(1)
+   - DAY11_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120844
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY11_C.cpp
+- [ ] 팩토리얼
+   - DAY11_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120845
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY11_D.cpp
 
 
 
