@@ -2,8 +2,18 @@
 using namespace std;
 
 string solution(string my_string) {
-    string answer = "";
-    return answer;
+
+    for(auto &t : my_string){
+        if(t >= 'a' && t <= 'z'){
+            t = t - 'a' + 'A';
+        }
+        else {
+            t = t - 'A' + 'a';
+        }
+    }
+
+
+    return my_string;
 }
 
 int main(void) {

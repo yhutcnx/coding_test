@@ -223,32 +223,50 @@
    - DAY13_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120854
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY13_B.cpp
-- [ ] 중복된 문자 제거
+- [x] 중복된 문자 제거
    - DAY13_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120888
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY13_C.cpp
-- [ ] 삼각형의 완성 조건 (1)
+- [x] 삼각형의 완성 조건 (1)
    - DAY13_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120889
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY13_D.cpp
 ---
 ### DAY14
-- [ ] 가까운 수
+- [x] 가까운 수
    - DAY14_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120890
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY14_A.cpp
-- [ ] 369게임
+- [x] 369게임
    - DAY14_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120891
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY14_B.cpp
-- [ ] 암호 해독
+- [x] 암호 해독
    - DAY14_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120892
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY14_C.cpp
-- [ ] 대문자와 소문자
+- [x] 대문자와 소문자
    - DAY14_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120893
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY14_D.cpp
+---
+### DAY15
+- [ ] 영어가 싫어요
+   - DAY15_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120890
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY15_A.cpp
+- [ ] 인덱스 바꾸기
+   - DAY15_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120891
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY15_B.cpp
+- [ ] 한 번만 등장한 문자
+   - DAY15_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120892
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY15_C.cpp
+- [ ] 약수 구하기
+   - DAY15_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120893
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY15_D.cpp
 
 
 
