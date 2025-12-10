@@ -191,28 +191,64 @@
    - DAY11_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120847
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY11_C.cpp
-- [ ] 팩토리얼
+- [x] 팩토리얼
    - DAY11_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120848
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY11_D.cpp
 ---
 ### DAY12
-- [ ] 모음 제거
+- [x] 모음 제거
    - DAY12_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120849
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY12_A.cpp
-- [ ] 문자열 정렬하기 (1)
+- [x] 문자열 정렬하기 (1)
    - DAY12_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120850
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY12_B.cpp
-- [ ] 숨어있는 숫자의 덧셈 (1)
+- [x] 숨어있는 숫자의 덧셈 (1)
    - DAY12_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120851
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY12_C.cpp
-- [ ] 소인수분해
+- [x] 소인수분해
    - DAY12_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120852
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY12_D.cpp
+---
+### DAY13
+- [x] 컨트롤 제트
+   - DAY13_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120853
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY13_A.cpp
+- [x] 배열 원소의 길이
+   - DAY13_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120854
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY13_B.cpp
+- [ ] 중복된 문자 제거
+   - DAY13_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120888
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY13_C.cpp
+- [ ] 삼각형의 완성 조건 (1)
+   - DAY13_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120889
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY13_D.cpp
+---
+### DAY14
+- [ ] 가까운 수
+   - DAY14_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120890
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY14_A.cpp
+- [ ] 369게임
+   - DAY14_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120891
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY14_B.cpp
+- [ ] 암호 해독
+   - DAY14_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120892
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY14_C.cpp
+- [ ] 대문자와 소문자
+   - DAY14_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120893
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY14_D.cpp
 
 
 
