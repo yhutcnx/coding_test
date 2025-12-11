@@ -251,23 +251,40 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY14_D.cpp
 ---
 ### DAY15
-- [ ] 영어가 싫어요
+- [x] 영어가 싫어요
    - DAY15_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120890
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY15_A.cpp
-- [ ] 인덱스 바꾸기
+- [x] 인덱스 바꾸기
    - DAY15_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120891
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY15_B.cpp
-- [ ] 한 번만 등장한 문자
+- [x] 한 번만 등장한 문자
    - DAY15_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120892
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY15_C.cpp
-- [ ] 약수 구하기
+- [x] 약수 구하기
    - DAY15_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120893
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY15_D.cpp
-
+---
+### DAY16
+- [ ] 편지
+   - DAY16_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120898
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY16_A.cpp
+- [ ] 가장 큰 수 찾기
+   - DAY16_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120899
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY16_B.cpp
+- [ ] 문자열 계산하기
+   - DAY16_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120902
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY16_C.cpp
+- [ ] 배열의 유사도
+   - DAY16_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120903
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY16_D.cpp
 
 
 ### DAY21

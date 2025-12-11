@@ -1,0 +1,14 @@
+#include "bits/stdc++.h"
+using namespace std;
+
+int solution(vector<string> s1, vector<string> s2) {
+    int answer = 0;
+    return answer;
+}
+
+int main(void) {
+
+    cout << solution({"a", "b", "c"}, {"com", "b", "d", "p", "c"}) << "\n"; // 2
+
+    return 0;
+}
