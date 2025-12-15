@@ -2,7 +2,7 @@
 using namespace std;
 
 int solution(string message) {
-    int answer = 0;
+    int answer = message.size() * 2;
     return answer;
 }
 

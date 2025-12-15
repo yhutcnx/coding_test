@@ -269,22 +269,40 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY15_D.cpp
 ---
 ### DAY16
-- [ ] 편지
+- [x] 편지
    - DAY16_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120898
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY16_A.cpp
-- [ ] 가장 큰 수 찾기
+- [x] 가장 큰 수 찾기
    - DAY16_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120899
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY16_B.cpp
-- [ ] 문자열 계산하기
+- [x] 문자열 계산하기
    - DAY16_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120902
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY16_C.cpp
-- [ ] 배열의 유사도
+- [x] 배열의 유사도
    - DAY16_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120903
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY16_D.cpp
+---
+### DAY17
+- [ ] 숫자 찾기
+   - DAY17_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120904
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY17_A.cpp
+- [ ] n의 배수 고르기
+   - DAY17_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120905
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY17_B.cpp
+- [ ] 자릿수 더하기
+   - DAY17_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120906
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY17_C.cpp
+- [ ] OX퀴즈
+   - DAY17_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120907
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY17_D.cpp
 
 
 ### DAY21
