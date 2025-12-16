@@ -287,22 +287,40 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY16_D.cpp
 ---
 ### DAY17
-- [ ] 숫자 찾기
+- [x] 숫자 찾기
    - DAY17_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120904
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY17_A.cpp
-- [ ] n의 배수 고르기
+- [x] n의 배수 고르기
    - DAY17_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120905
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY17_B.cpp
-- [ ] 자릿수 더하기
+- [x] 자릿수 더하기
    - DAY17_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120906
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY17_C.cpp
-- [ ] OX퀴즈
+- [x] OX퀴즈
    - DAY17_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120907
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY17_D.cpp
+---
+### DAY18
+- [ ] 문자열안에 문자열
+   - DAY18_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120908
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY18_A.cpp
+- [ ] 제곱수 판별하기
+   - DAY18_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120909
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY18_B.cpp
+- [ ] 세균 증식
+   - DAY18_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120910
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY18_C.cpp
+- [ ] 문자열 정렬하기 (2)
+   - DAY18_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120911
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY18_D.cpp
 
 
 ### DAY21

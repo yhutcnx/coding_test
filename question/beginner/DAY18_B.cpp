@@ -3,18 +3,12 @@ using namespace std;
 
 int solution(int n) {
     int answer = 0;
-
-    string str = to_string(n);
-    for(auto s : str){
-        answer += s - '0';
-    }
-
     return answer;
 }
 
 int main(void) {
 
-    cout << solution(1234) << "\n"; // 10
+    cout << solution(144) << "\n"; // 1
 
     return 0;
 }
