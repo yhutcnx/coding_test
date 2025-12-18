@@ -305,42 +305,156 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY17_D.cpp
 ---
 ### DAY18
-- [ ] 문자열안에 문자열
+- [x] 문자열안에 문자열
    - DAY18_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120908
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY18_A.cpp
-- [ ] 제곱수 판별하기
+- [x] 제곱수 판별하기
    - DAY18_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120909
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY18_B.cpp
-- [ ] 세균 증식
+- [x] 세균 증식
    - DAY18_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120910
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY18_C.cpp
-- [ ] 문자열 정렬하기 (2)
+- [x] 문자열 정렬하기 (2)
    - DAY18_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120911
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY18_D.cpp
-
-
+---
+### DAY19
+- [x] 7의 개수
+   - DAY19_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120912
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY19_A.cpp
+- [x] 잘라서 배열로 저장하기
+   - DAY19_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120913
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY19_B.cpp
+- [x] 중복된 숫자 개수
+   - DAY19_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120583
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY19_C.cpp
+- [x] 머쓱이보다 키 큰 사람
+   - DAY19_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120585
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY19_D.cpp
+---
+### DAY20
+- [ ] 
+   - DAY20_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY20_A.cpp
+- [ ] 
+   - DAY20_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY20_B.cpp
+- [ ] 
+   - DAY20_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY20_C.cpp
+- [ ] 
+   - DAY20_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY20_D.cpp
+---
 ### DAY21
+- [ ] 
+   - DAY21_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_A.cpp
+- [ ] 
+   - DAY21_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_B.cpp
+- [ ] 
+   - DAY21_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_C.cpp
+- [ ] 
+   - DAY21_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_D.cpp
 - [x] 외계어 사전
   - DAY21_N.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/120869
 ---
-
-### Day23
+### DAY22
+- [ ] 
+   - DAY22_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_A.cpp
+- [ ] 
+   - DAY22_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_B.cpp
+- [ ] 
+   - DAY22_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_C.cpp
+- [ ] 
+   - DAY22_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_D.cpp
+---
+### DAY23
+- [ ] 
+   - DAY23_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_A.cpp
+- [ ] 
+   - DAY23_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_B.cpp
+- [ ] 
+   - DAY23_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_C.cpp
+- [ ] 
+   - DAY23_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_D.cpp
 - [x] 옹알이 (1)
   - DAY23_N.cpp
 ---
-
-### Day24
+### DAY24
+- [ ] 
+   - DAY24_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_A.cpp
+- [ ] 
+   - DAY24_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_B.cpp
+- [ ] 
+   - DAY24_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_C.cpp
+- [ ] 
+   - DAY24_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_D.cpp
 - [x] 치킨 쿠폰
   - DAY24_N.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/120884
 ---
-
-### Day25
+### DAY25
+- [ ] 
+   - DAY25_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_A.cpp
+- [ ] 
+   - DAY25_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_B.cpp
+- [ ] 
+   - DAY25_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_C.cpp
+- [ ] 
+   - DAY25_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_D.cpp
 - [x] 다음에 올 숫자
   - DAT25_N.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/120924
