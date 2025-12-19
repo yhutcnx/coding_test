@@ -341,43 +341,40 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY19_D.cpp
 ---
 ### DAY20
-- [ ] 
+- [x] 직사각형 넓이 구하기
    - DAY20_A.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120860
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY20_A.cpp
-- [ ] 
+- [x] 캐릭터의 좌표
    - DAY20_B.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120861
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY20_B.cpp
-- [ ] 
+- [x] 최댓값 만들기 (2)
    - DAY20_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120862
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY20_C.cpp
-- [ ] 
+- [x] 다항식 더하기
    - DAY20_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120863
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY20_D.cpp
 ---
 ### DAY21
-- [ ] 
+- [ ] 숨어있는 숫자의 덧셈 (2)
    - DAY21_A.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120864
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_A.cpp
-- [ ] 
+- [ ] 안전지대
    - DAY21_B.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120866
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_B.cpp
-- [ ] 
+- [ ] 삼각형의 완성조건 (2)
    - DAY21_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120868
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_C.cpp
-- [ ] 
-   - DAY21_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
-   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_D.cpp
 - [x] 외계어 사전
-  - DAY21_N.cpp
-  - https://school.programmers.co.kr/learn/courses/30/lessons/120869
+   - DAY21_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120869
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_D.cpp
 ---
 ### DAY22
 - [ ] 
