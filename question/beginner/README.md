@@ -359,15 +359,15 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY20_D.cpp
 ---
 ### DAY21
-- [ ] 숨어있는 숫자의 덧셈 (2)
+- [x] 숨어있는 숫자의 덧셈 (2)
    - DAY21_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120864
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_A.cpp
-- [ ] 안전지대
+- [x] 안전지대
    - DAY21_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120866
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_B.cpp
-- [ ] 삼각형의 완성조건 (2)
+- [x] 삼각형의 완성조건 (2)
    - DAY21_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120868
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_C.cpp
@@ -377,21 +377,21 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_D.cpp
 ---
 ### DAY22
-- [ ] 
+- [ ] 저주의 숫자 3
    - DAY22_A.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120871
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_A.cpp
-- [ ] 
+- [ ] 평행
    - DAY22_B.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120875
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_B.cpp
-- [ ] 
+- [ ] 겹치는 선분의 길이
    - DAY22_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120876
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_C.cpp
-- [ ] 
+- [ ] 유한소수 판별하기
    - DAY22_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120878
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_D.cpp
 ---
 ### DAY23
