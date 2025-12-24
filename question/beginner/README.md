@@ -377,42 +377,40 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY21_D.cpp
 ---
 ### DAY22
-- [ ] 저주의 숫자 3
+- [x] 저주의 숫자 3
    - DAY22_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120871
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_A.cpp
-- [ ] 평행
+- [x] 평행
    - DAY22_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120875
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_B.cpp
-- [ ] 겹치는 선분의 길이
+- [x] 겹치는 선분의 길이
    - DAY22_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120876
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_C.cpp
-- [ ] 유한소수 판별하기
+- [x] 유한소수 판별하기
    - DAY22_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120878
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_D.cpp
 ---
 ### DAY23
-- [ ] 
+- [ ] 특이한 정렬
    - DAY23_A.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120880
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_A.cpp
-- [ ] 
+- [ ] 등수 매기기
    - DAY23_B.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120882
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_B.cpp
-- [ ] 
+- [ ] 옹알이 (1)
    - DAY23_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120956
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_C.cpp
-- [ ] 
+- [ ] 로그인 성공?
    - DAY23_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120883
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_D.cpp
-- [x] 옹알이 (1)
-  - DAY23_N.cpp
 ---
 ### DAY24
 - [ ] 
@@ -456,3 +454,25 @@
   - DAT25_N.cpp
   - https://school.programmers.co.kr/learn/courses/30/lessons/120924
 
+
+
+### DAY2N
+- [ ] 연속된 수의 합
+  - DAY29N_A.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/120923
+
+- [ ] 문자열 밀기
+  - DAY29N_B.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/120921
+  
+- [ ] 이진수 더하기
+  - DAY29N_C.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/120885
+  
+- [ ] A로 B 만들기
+  - DAY29N_D.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/120886
+  
+- [ ] k의 개수
+  - DAY29N_E.cpp
+  - https://school.programmers.co.kr/learn/courses/30/lessons/120887
