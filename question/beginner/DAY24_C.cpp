@@ -2,8 +2,10 @@
 using namespace std;
 
 int solution(string before, string after) {
-    int answer = 0;
-    return answer;
+
+    sort(before.begin(), before.end());
+    sort(after.begin(), after.end());
+    return before == after;
 }
 
 int main(void) {

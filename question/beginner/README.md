@@ -395,84 +395,56 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY22_D.cpp
 ---
 ### DAY23
-- [ ] 특이한 정렬
+- [x] 특이한 정렬
    - DAY23_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120880
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_A.cpp
-- [ ] 등수 매기기
+- [x] 등수 매기기
    - DAY23_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120882
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_B.cpp
-- [ ] 옹알이 (1)
+- [x] 옹알이 (1)
    - DAY23_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120956
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_C.cpp
-- [ ] 로그인 성공?
+- [x] 로그인 성공?
    - DAY23_D.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120883
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY23_D.cpp
 ---
 ### DAY24
-- [ ] 
-   - DAY24_A.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
-   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_A.cpp
-- [ ] 
-   - DAY24_B.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
-   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_B.cpp
-- [ ] 
-   - DAY24_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
-   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_C.cpp
-- [ ] 
-   - DAY24_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
-   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_D.cpp
 - [x] 치킨 쿠폰
-  - DAY24_N.cpp
-  - https://school.programmers.co.kr/learn/courses/30/lessons/120884
+   - DAY24_A.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120884
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_A.cpp
+- [x] 이진수 더하기
+   - DAY24_B.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120885
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_B.cpp
+- [x] A로 B 만들기
+   - DAY24_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120886
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_C.cpp
+- [x] k의 개수
+   - DAY24_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120887
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_D.cpp
 ---
 ### DAY25
-- [ ] 
+- [ ] 문자열 밀기
    - DAY25_A.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120921
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_A.cpp
-- [ ] 
+- [x] 종이 자르기
    - DAY25_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_B.cpp
-- [ ] 
-   - DAY25_C.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
-   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_C.cpp
-- [ ] 
-   - DAY25_D.cpp
-   - https://school.programmers.co.kr/learn/courses/30/lessons/
-   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_D.cpp
-- [x] 다음에 올 숫자
-  - DAT25_N.cpp
-  - https://school.programmers.co.kr/learn/courses/30/lessons/120924
-
-
-
-### DAY2N
 - [ ] 연속된 수의 합
-  - DAY29N_A.cpp
-  - https://school.programmers.co.kr/learn/courses/30/lessons/120923
+   - DAY25_C.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120923
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_C.cpp
+- [x] 다음에 올 숫자
+   - DAY25_D.cpp
+   - https://school.programmers.co.kr/learn/courses/30/lessons/120924
+   - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_D.cpp
 
-- [ ] 문자열 밀기
-  - DAY29N_B.cpp
-  - https://school.programmers.co.kr/learn/courses/30/lessons/120921
-  
-- [ ] 이진수 더하기
-  - DAY29N_C.cpp
-  - https://school.programmers.co.kr/learn/courses/30/lessons/120885
-  
-- [ ] A로 B 만들기
-  - DAY29N_D.cpp
-  - https://school.programmers.co.kr/learn/courses/30/lessons/120886
-  
-- [ ] k의 개수
-  - DAY29N_E.cpp
-  - https://school.programmers.co.kr/learn/courses/30/lessons/120887
