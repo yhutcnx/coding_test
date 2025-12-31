@@ -431,7 +431,7 @@
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY24_D.cpp
 ---
 ### DAY25
-- [ ] 문자열 밀기
+- [x] 문자열 밀기
    - DAY25_A.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120921
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_A.cpp
@@ -439,7 +439,7 @@
    - DAY25_B.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_B.cpp
-- [ ] 연속된 수의 합
+- [x] 연속된 수의 합
    - DAY25_C.cpp
    - https://school.programmers.co.kr/learn/courses/30/lessons/120923
    - https://github.com/yhutcnx/coding_test/blob/main/question/beginner/DAY25_C.cpp
